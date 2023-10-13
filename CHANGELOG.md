@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/Silent-Watcher/react-linktree/compare/v1.0.0...v1.1.0) (2023-10-13)
+
+
+### Features
+
+* add vercel deploy github action ([0ab09ca](https://github.com/Silent-Watcher/react-linktree/commit/0ab09cae90dee6a24cd38f6f358cdb9b1ae6fc4d))
+
+
+### Bug Fixes
+
+* **src/assets:** fix image bug ([5442967](https://github.com/Silent-Watcher/react-linktree/commit/5442967aa79aa4b15fb74ebc4cfe693af1eaff71))
+
 ## 1.0.0 (2023-10-13)
 
 ### Features
