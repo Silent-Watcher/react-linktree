@@ -1,0 +1,8 @@
+{
+	"*.(js|ts|jsx|tsx)": [
+		"npm run lint",
+		"npm run prettier",
+		"pnpm lint:language"
+	],
+	"*.(html|css)": ["pnpm prettier", "pnpm lint:language"]
+}
