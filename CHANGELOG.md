@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/Silent-Watcher/react-linktree/compare/v1.2.0...v1.2.1) (2023-10-13)
+
+
+### Bug Fixes
+
+* add mailto for email links ([66b2823](https://github.com/Silent-Watcher/react-linktree/commit/66b28239a2b588d142bce0904c05c2326b1fed08))
+
 ## [1.2.0](https://github.com/Silent-Watcher/react-linktree/compare/v1.1.0...v1.2.0) (2023-10-13)
 
 
