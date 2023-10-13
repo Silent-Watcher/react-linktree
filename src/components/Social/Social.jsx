@@ -10,7 +10,7 @@ function Social({ link, icon }) {
 	return (
 		<a
 			className="block w-full text-center text-blue-400 hover:text-blue-500"
-			href={link}
+			href={icon === 'gmail' ? `mailto:${link}` : link}
 			target="_blank"
 			rel="noreferrer"
 		>
